@@ -20,6 +20,8 @@ Set up the target repository for founder-led GTM work.
     content-strategy.md
     content-ideas.md
     social-calendar.md
+    competitor-profiles/
+      raw/
     posts/
 ```
 
@@ -90,3 +92,9 @@ Last updated:
 | Date | Platform | Post | Status | Link |
 |------|----------|------|--------|------|
 ```
+
+`competitor-profiles/`:
+
+Create the directory and its `raw/` subdirectory. Competitor research skills use
+this location for raw scrapes, SEO data, review data, synthesized profiles, and
+cross-competitor summaries.

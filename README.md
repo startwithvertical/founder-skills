@@ -72,6 +72,8 @@ The first usable skills focus on a simple building-in-public content loop:
   `.vertical/gtm` workspace in the project using the skills.
 - [`product-marketing`](go-to-market/product-marketing/SKILL.md) captures the
   product, audience, positioning, proof, and voice.
+- [`competitor-research`](go-to-market/competitor-research/SKILL.md) profiles
+  competitors from URLs and stores raw research plus synthesized profiles.
 - [`content-strategy`](go-to-market/content-strategy/SKILL.md) turns context and
   ideas into a lightweight content strategy and idea backlog.
 - [`marketing-ideas`](go-to-market/marketing-ideas/SKILL.md) generates candidate
@@ -88,6 +90,9 @@ path and the `social-content` skill name. That set is enough to capture
 positioning, decide what to publish, generate ideas, store selected backlog
 items, and draft social posts without importing a full marketing operating
 system.
+
+`competitor-research` is copied from the upstream `competitor-profiling` skill,
+with output paths patched to `.vertical/gtm/competitor-profiles/`.
 
 ## Installation
 

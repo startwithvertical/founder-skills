@@ -7,6 +7,7 @@ The current starter set is intentionally small:
 
 - `setup-gtm-skills`
 - `product-marketing`
+- `competitor-research`
 - `content-strategy`
 - `marketing-ideas`
 - `social-content`
@@ -14,3 +15,6 @@ The current starter set is intentionally small:
 The four non-setup skills are copied from
 `coreyhaines31/marketingskills`, with persistence patched to `.vertical/gtm/`
 and `social` renamed to `social-content`.
+
+`competitor-research` is copied from upstream `competitor-profiling`, with
+competitor profile output patched to `.vertical/gtm/competitor-profiles/`.
